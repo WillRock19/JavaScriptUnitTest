@@ -43,7 +43,6 @@
     <Content Include="Scripts\jasmine\console.js" />
     <Content Include="Scripts\jasmine\jasmine-html.js" />
     <Content Include="Scripts\jasmine\jasmine.js" />
-    <Content Include="Sources\calculator.js" />
     <Content Include="Tests\calculatorTests.js" />
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,0 @@
-c:\users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.csproj.CoreCompileInputs.cache
-C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\bin\Debug\JavaScriptTests.exe.config
-C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\bin\Debug\JavaScriptTests.exe
-C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\bin\Debug\JavaScriptTests.pdb
-C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.exe
-C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.pdb
-C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.csprojResolveAssemblyReference.cache
