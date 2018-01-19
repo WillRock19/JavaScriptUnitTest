@@ -1,8 +1,10 @@
 ﻿{
   "Framework": "jasmine",
   "References": [
-    //{ "Path": "Sources/calculator.js" }
-    { "Path": "../myotherProject/sources/calculator.js" }
+    {
+      "Path": "../myotherProject/sources",
+      "Include": "*.js"
+    }
   ],
   "Tests": [
     {"Path": "Tests/calculatorTests.js"}
