@@ -4,3 +4,4 @@ C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\bin\Debug\Ja
 C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\bin\Debug\JavaScriptTests.pdb
 C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.exe
 C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.pdb
+C:\Users\william.pinto\source\repos\JavaScriptTests\JavaScriptTests\obj\Debug\JavaScriptTests.csprojResolveAssemblyReference.cache
